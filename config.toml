@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Site'
+title = "My New site that i'm testing CI viz"
 theme = 'ananke'
